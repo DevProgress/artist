@@ -13,5 +13,10 @@
     "name": "Weems",
     "backgroundImage": "./img/weems.jpg",
     "href": "https://www.hillaryclinton.com/artist/weems/"
+  },
+  {
+    "name": "Holzer",
+    "backgroundImage": "./img/holzer.jpg",
+    "href": "https://www.hillaryclinton.com/artist/holzer/"
   }
 ]

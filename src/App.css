@@ -25,7 +25,7 @@
 
 .hover-panel {
   position: absolute;
-  width: 300px;
+  width: 350px;
   margin: 0 auto;
   left: 0;
   right: 0;
@@ -116,9 +116,9 @@
 }
 
 @keyframes fadein {
-  0% { opacity: 0; }
+  0% { opacity: 0.2; }
   50% { opacity: 1; }
-  100% { opacity: 0; }
+  100% { opacity: 0.2; }
 }
 
 /* Firefox < 16 */
