@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mazza",
+    "backgroundImage": "./img/mazza.jpg",
+    "href": "https://www.hillaryclinton.com/artist/mazza/"
+  },
+  {
+    "name": "Ortiz",
+    "backgroundImage": "./img/ortiz.jpg",
+    "href": "https://www.hillaryclinton.com/artist/ortiz/"
+  },
+  {
+    "name": "Weems",
+    "backgroundImage": "./img/weems.jpg",
+    "href": "https://www.hillaryclinton.com/artist/weems/"
+  }
+]
