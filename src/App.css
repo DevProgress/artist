@@ -116,9 +116,9 @@
 }
 
 @keyframes fadein {
-  0% { opacity: 0.2; }
+  0% { opacity: 0.3; }
   70% { opacity: 1; }
-  100% { opacity: 0.2; }
+  100% { opacity: 0.3; }
 }
 
 /* Firefox < 16 */

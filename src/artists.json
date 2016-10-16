@@ -1,21 +1,21 @@
 [
   {
-    "name": "Mazza",
+    "name": "Cat Mazza",
     "backgroundImage": "./img/mazza.jpg",
     "href": "https://www.hillaryclinton.com/artist/mazza/"
   },
   {
-    "name": "Ortiz",
+    "name": "Cruz Ortiz",
     "backgroundImage": "./img/ortiz.jpg",
     "href": "https://www.hillaryclinton.com/artist/ortiz/"
   },
   {
-    "name": "Weems",
+    "name": "Carrie Mae Weems",
     "backgroundImage": "./img/weems.jpg",
     "href": "https://www.hillaryclinton.com/artist/weems/"
   },
   {
-    "name": "Holzer",
+    "name": "Jenny Holzer",
     "backgroundImage": "./img/holzer.jpg",
     "href": "https://www.hillaryclinton.com/artist/holzer/"
   }
