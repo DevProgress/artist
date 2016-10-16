@@ -53,6 +53,10 @@
     text-decoration-color: rgb(155, 155, 155);
   }
 
+  .hover-panel .artist-list .artist-item a:hover {
+    color: #D12C2B;
+  }
+
   .hover-panel .artist-list .join-us a {
     background-color: rgb(209, 44, 43);
     padding-top: 9px;
