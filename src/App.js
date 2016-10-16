@@ -59,7 +59,7 @@ class App extends Component {
               );
             })}
             <div className="join-us">
-              <a href="http://www.hillaryclinton.com" className="btn btn-join btn-danger">Join us</a>
+              <a href="https://hillaryclinton.com/artist" className="btn btn-join btn-danger">Join us</a>
             </div>
           </div>
         </div>
