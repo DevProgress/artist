@@ -2,7 +2,7 @@
   "name": "artist-home",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://devprogress.us/artist-home/",
+  "homepage": "https://devprogress.us/artist/home/",
   "devDependencies": {
     "react-scripts": "0.6.1"
   },

@@ -18,5 +18,15 @@
     "name": "Jenny Holzer",
     "backgroundImage": "./img/holzer.jpg",
     "href": "https://www.hillaryclinton.com/artist/holzer/"
+  },
+  {
+    "name": "Eileen Myles",
+    "backgroundImage": "./img/myles.jpg",
+    "href": "https://www.hillaryclinton.com/artist/myles/"
+  },
+  {
+    "name": "Maya Lin",
+    "backgroundImage": "./img/lin.jpg",
+    "href": "https://www.hillaryclinton.com/artist/lin/"
   }
 ]
