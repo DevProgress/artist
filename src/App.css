@@ -45,16 +45,10 @@
   }
 
   .hover-panel .artist-list .artist-item a{
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
     font-size: 30px;
     font-weight: 800;
-    -moz-text-decoration-color: rgb(155, 155, 155); /* Code for Firefox */
-    text-decoration-color: rgb(155, 155, 155);
-  }
-
-  .hover-panel .artist-list .artist-item a:hover {
-    color: #D12C2B;
+    color: rgb(0, 0, 0);
   }
 
   .hover-panel .artist-list .join-us a {
