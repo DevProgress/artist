@@ -61,6 +61,13 @@ class App extends Component {
             <div className="join-us">
               <a href="https://hillaryclinton.com/artist" className="btn btn-join btn-danger">Join us</a>
             </div>
+            <br/>
+            <div className='bottom-title attribution attribution-title'>
+                Paid for by Hillary for America
+            </div>
+            <div className='attribution'>
+              <a target='_blank' href='https://www.hillaryclinton.com/page/terms-of-service/'>Terms of Service</a> &amp; <a target='_blank' href='https://www.hillaryclinton.com/page/privacy-policy/'>Privacy Policy</a>
+            </div>
           </div>
         </div>
       </div>
